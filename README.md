@@ -1,6 +1,5 @@
 # Bangla Blog
-This is one of the advanced blog web application. You can use it as your blog website. It has latest feature like any
-other blogging web application. 
+This is one of the advanced blog web application. It has latest feature like any other blogging web application. In this blog application one user will be admin and all the other registered user will be author of their post. They can create, delete, update their post anytime.
 
 ## Getting Started
 
